@@ -15,8 +15,8 @@
 .statusOnline,
 .statusOffline {
   display: block;
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   border-radius: 50%;
   background-color: green;
   margin: 0 10px 0 10px;
