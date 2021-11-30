@@ -6,7 +6,6 @@
 }
 .item {
   display: flex;
-  flex-direction: ;
   align-items: center;
   margin: 20px;
   box-shadow: 0 0 1em;
@@ -27,11 +26,10 @@
   background-color: red;
 }
 .avatar {
-  border-radius: 10px;
   margin: 10px;
 }
 
 .name {
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
 }
